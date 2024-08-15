@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img src="./public/images/demo-share.png" />
+    <img src="./public//demo-share.png" />
   </a>
 </p>
 
