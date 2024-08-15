@@ -102,7 +102,6 @@
       </div>
 
     </div>
-    <!-- MENU END -->
 
     <!-- content -->
     <div class="flex flex-col lg:grid lg:grid-cols-2 h-full w-full">
