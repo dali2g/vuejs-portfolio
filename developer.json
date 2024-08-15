@@ -110,35 +110,35 @@
             "title": "_nordys",
             "description": " Designed and developed a responsive job portal website for Nordys, using Next.js, React with TypeScript, Sanity.io,Framer Motion, and Tailwind CSS.",
             "img": "/images/nordys.PNG",
-            "tech": ["Next"],
+            "tech": ["next"],
             "url": "https://nordys.vercel.app/"
         },
         "2": {
             "title": "_banking-assistant-chatbot",
             "description": "Developed a Banking Assistant Chatbot that can handle banking clients requests such as checking balances,transferring money, and paying bills.",
             "img": "/images/banking-chatbot.PNG",
-            "tech": ["Langchain","React","Express","FastAPI"],
+            "tech": ["langchain","react","express","fastapi"],
             "url": ""
         },
         "3": {
             "title": "_threads-app",
             "description": "Developed a full-stack Social Media Web App project, utilizing Next.js, React, Tailwind CSS, TypeScript, Clerk,and Mongoose.",
             "img": "/images/threadsapp.PNG",
-            "tech": ["Next"],
+            "tech": ["next"],
             "url": "https://github.com/dali2g/threads-app"
         },
         "4": {
             "title": "_acquire-redesign",
             "description": "Redesigned the landing website of acquire.",
             "img": "/images/acquire.PNG",
-            "tech": ["Figma"],
+            "tech": ["figma"],
             "url": "https://drive.google.com/file/d/1hF-3FaHFUbUOI4saDO1hqLBcurIaMDvc/view?usp=sharing"
         },
         "5": {
             "title": "_promolab",
             "description": "Designed and developed a modern, visually appealing website for Promolab.",
             "img": "/images/promolab.PNG",
-            "tech": ["Next"],
+            "tech": ["next"],
             "url": "https://promolab.vercel.app"
         },
         "6": 
@@ -146,7 +146,7 @@
             "title": "_autoroute-dashboard",
             "description": "Developed a dashboard that offers CRUD operations,generates charts from CSV employers data.",
             "img": "/images/autoroute-dashboard.PNG",
-            "tech": ["React"],
+            "tech": ["react"],
             "url": "https://github.com/dali2g/dash-back-linked"
         }
     }
